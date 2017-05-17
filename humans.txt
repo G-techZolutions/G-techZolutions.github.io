@@ -1,0 +1,26 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Marco Gregori -- Web Developer -- https://twitter.com/shantilab
+
+# THANKS
+
+    All, owwwlab
+
+# TECHNOLOGY COLOPHON
+
+   Caroufredsel from Dev7studios
+	 jQuery Easing Plugin from GSGD
+	 Isotope by David DeSandro
+	 Easy pie chart by rendro
+	 Magnific Popup by Dmitry Semenov
+	 jQuery Mousewheel by Brandon Aaron
+	 GSAP JS from GreenSock
+	 jQuery placeholder by Federico Galassi
+	 Perfect scrollbar by HyeonJe Jun
+	 Gmap3
+	 jQuery Waypoints
+	 Stellar
+
